@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 27, 2023, 11:44:45 AM
+    Author     : hendrix
+*/
+
+.background{
+    background-image: url("https://gamepress.gg/lostword/sites/lostword/files/story_cards/0088_%E2%98%863_Nameless%20Hill.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+

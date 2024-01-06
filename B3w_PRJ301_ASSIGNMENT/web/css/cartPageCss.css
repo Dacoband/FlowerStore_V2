@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 27, 2023, 1:00:55 PM
+    Author     : hendrix
+*/
+body {
+  overflow: auto; /* Hide scrollbars */
+}
+
+.background{
+    background-image: url("https://gamepress.gg/lostword/sites/lostword/files/story_cards/0077_%E2%98%863_Human%20Village.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

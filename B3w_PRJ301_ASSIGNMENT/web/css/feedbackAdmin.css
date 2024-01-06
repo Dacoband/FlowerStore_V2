@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 19, 2023, 12:22:41 PM
+    Author     : hendrix
+*/
+.myProfile{
+   opacity: 40%;
+   transition: 0.5s;
+}
+
+.myProfile:hover{
+    opacity: 100%;
+}
+
+::placeholder{
+    color: black;
+}
+
